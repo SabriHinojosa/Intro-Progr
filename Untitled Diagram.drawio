@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T15:11:59.925Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8T6Xjl6-LExp6KWwGkck" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T15:13:41.215Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="01hI0eE6hGsB2Q0Rsp5S" version="16.6.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2575" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -543,8 +543,8 @@
         <mxCell id="hFnwkIkl8yUfg50oXeQH-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hFnwkIkl8yUfg50oXeQH-59" target="hFnwkIkl8yUfg50oXeQH-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hFnwkIkl8yUfg50oXeQH-59" value="Si s es numero impar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-638.75" y="1550" width="78.75" height="80" as="geometry" />
+        <mxCell id="hFnwkIkl8yUfg50oXeQH-59" value="Si ( s mod 2 ) = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1550" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hFnwkIkl8yUfg50oXeQH-60" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1560" width="60" height="30" as="geometry" />
